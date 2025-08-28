@@ -47,7 +47,11 @@ const styles = StyleSheet.create({
   },
   button: {
     padding: 18,
+<<<<<<< HEAD
+    backgroundColor: 'rgba(31, 128, 207, 1)',
+=======
     backgroundColor: '#21cc8d',
+>>>>>>> 9d81fff (Initial commit)
     color: 'white',
     borderRadius: 8,
   }
